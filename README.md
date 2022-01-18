@@ -3,5 +3,5 @@
 Portfolio Webpage with details as specified in acceptance criteria has been created!
 
 
-![Website Portfolio](./assets/portfolio.png)
+![Website Portfolio](./assets/Portfolio.png)
 
