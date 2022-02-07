@@ -5,3 +5,8 @@ Portfolio Webpage with details as specified in acceptance criteria has been crea
 
 ![Website Portfolio](./assets/Portfolio.png)
 
+
+ADDED LINKS TO PROJECTS
+ADDED DOWNLOADABLE RESUME  FILE WITH DEMO 
+ADDED PROJECT NAMES
+

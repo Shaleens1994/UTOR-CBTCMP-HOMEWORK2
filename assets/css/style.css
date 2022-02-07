@@ -285,3 +285,17 @@ footer h2 {
        
      }
    }
+
+   .imgContainer {
+       position: relative;
+       margin-right: 50px;
+   }
+   .portfolio {
+       position: absolute;
+       bottom: 50px
+   }
+
+   .container1, .container2 {
+       display: flex;
+       flex-wrap: wrap;
+   }
