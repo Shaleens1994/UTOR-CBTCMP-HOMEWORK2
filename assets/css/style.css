@@ -174,8 +174,9 @@ margin-left: 50px;
 padding-left: 20px;
 border-left-style: solid;
 border-left-width: medium; 
-
-flex-direction: column;
+display:flex;
+flex-wrap: wrap;
+flex-direction: row;
 }
 #work2 {
     
@@ -214,7 +215,7 @@ border-left-width: medium;
 }
 
 .img2 {
-    width: 735px;
+    width: 400px;
     height: 300px;
     margin-top: 20px;
     
